@@ -31,7 +31,7 @@ By merging daily transaction logs with customer profiles, this analysis transiti
 
 ## 📂 Repository Structure
 
-* [**Retail_Transactions_and_Demographics.ipynb**](./Retail_Transactions_and_Demographics.ipynb): The main Jupyter Notebook containing all code, analysis, and custom HTML/CSS reports.
+* [**Retail_Transactions_and_Demographics.ipynb**](https://github.com/Sjpante/retail-transactions-demographics/blob/main/Retail_Transactions_and_Demographics.ipynb): The main Jupyter Notebook containing all code, analysis, and custom HTML/CSS reports.
 * [**Retail_Transactions_and_Demographics.html (Interactive Preview)**](https://htmlpreview.github.io/?https://github.com/Sjpante/retail-transactions-demographics/blob/main/Retail_Transactions_and_Demographics.html): Click here to view the full interactive report with Plotly charts directly in your browser.
 * [**2016-2017_comparison.png**](./2016-2017_comparison.png): Sample Plotly visualization exported from the analysis.
 
