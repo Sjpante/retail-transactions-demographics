@@ -30,8 +30,8 @@ By merging daily transaction logs with customer profiles, this analysis transiti
 3. **Demographic Power:** Income and household size strongly correlate with transaction frequency and overall customer lifetime value.
 
 ## 📂 Repository Structure
-* [Retail_Transactions_&_Demographics.ipynb](Retail_Transactions_&_Demographics.ipynb): The main Jupyter Notebook containing all code, analysis, and custom HTML/CSS reports.
-* [Retail_Transactions_&_Demographics.html](Retail_Transactions_&_Demographics.html): An HTML export of the notebook for easy browser viewing (Recommended for Plotly charts).
+* [Retail_Transactions_and_Demographics.ipynb](Retail_Transactions_and_Demographics.ipynb): The main Jupyter Notebook containing all code, analysis, and custom HTML/CSS reports.
+* [Retail_Transactions_and_Demographics.html](Retail_Transactions_and_Demographics.html): An HTML export of the notebook for easy browser viewing (Recommended for Plotly charts).
 * [2016-2017_comparison.png](2016-2017_comparison.png): Sample Plotly visualization exported from the analysis.
 
 * ## 💾 Data Source
